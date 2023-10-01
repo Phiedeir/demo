@@ -1,5 +1,4 @@
 
-
 - Datatables：[点我跳转预览地址](https://demo.ops-coffee.cn/datatables/)
 - duallistbox：[点我跳转预览地址](https://demo.ops-coffee.cn/duallistbox/)
 - select2：[点我跳转预览地址](https://demo.ops-coffee.cn/select2/)
@@ -12,5 +11,3 @@
 - tree：[点我跳转文章地址](https://blog.ops-coffee.cn/s/e3m9xHVsvhe36IvG1YKhbA)
 - websocket：[点我跳转文章地址](https://blog.ops-coffee.cn/s/hqaPrPS7w3D-9SeegQAB2Q)
 - bpmn: [点我跳转预览地址](https://bpmn.ops-coffee.cn)
-
-每一个目录为一个完整的demo，如果你只需要其中的一个demo，那只保留对应demo的目录即可，其他目录可删除，部分demo不在此仓库
